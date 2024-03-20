@@ -1,12 +1,12 @@
 # 第1次作業-作業-HW1
 >
->學號：1234567
+>學號：111111224
 ><br />
->姓名：王小明
+>姓名：邱武昱
 ><br />
->作業撰寫時間：180 (mins，包含程式撰寫時間)
+>作業撰寫時間：50 (mins，包含程式撰寫時間)
 ><br />
->最後撰寫文件日期：2023/09/22
+>最後撰寫文件日期：2023/03/13
 >
 
 本份文件包含以下主題：(至少需下面兩項，若是有多者可以自行新增)
@@ -14,43 +14,29 @@
 - [x] 個人認為完成作業須具備觀念
 
 ## 說明程式與內容
+第一題:  
+    1.fork檔案到自己的倉庫  
+    2.git clone  
+    3.新增文字A.txt  
+    4.輸入This an apple.  
+    5.git add commit push  
+    6.按下enter後輸入五行This a bear.  
+    7.git add commit push  
+    8.按下enter後輸入五行This a cake.  
+    9.git add commit push  
+    10.切換到f步的commit  
+    11.建立分支dev  
+    12.把dev分之內的A.txt改成只剩1行This is an apple  
+    13.切回分支main  
+    14合併分支出現衝突然後合併
 
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
-
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
-
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
-
+第二題:  
+    1.打開亞東醫院網站![alt text](image.png)  
+    2.選取科別![alt text](image-1.png)  
+    3.預約日期與醫生並掛號![alt text](image-2.png)  
+    4.填寫資料![alt text](image-3.png)  
+    5.填寫健康資料![alt text](image-4.png)  
+    6.預約完成![alt text](image-5.png)  
 ## 個人認為完成作業須具備觀念
-
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
+這次的作業運用到了分支比較深入的使用方式，需要對分支的指令和使用方式有很深的了解。  
+第二題知道了亞東醫院的預約掛號流程，大部分醫院大多都是這樣的流程。
